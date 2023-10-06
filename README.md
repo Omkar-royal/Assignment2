@@ -17,7 +17,7 @@ The extensive assignment in this repository was created to evaluate my proficien
 
 
 # HTML
-![Screenshot (370)](https://github.com/Omkar-royal/Assignment2/assets/77642195/7091d33c-4ede-43ea-aa62-d9e5a3dfcf41)
+![Screenshot (370)](https://github.com/Omkar-royal/Assignment2/assets/77642195/7ba6cf43-f239-4384-8fac-b6f02adc70eb)
+![Screenshot (371)](https://github.com/Omkar-royal/Assignment2/assets/77642195/930fabf3-3fc9-48eb-a2d9-f090f8834294)
+![Screenshot (372)](https://github.com/Omkar-royal/Assignment2/assets/77642195/f590b6d5-06ab-4525-8118-9131808de912)
 
-![Screenshot (371)](https://github.com/Omkar-royal/Assignment2/assets/77642195/a492c2cb-cd60-4767-826e-765b3e3bc833)
-![Screenshot (372)](https://github.com/Omkar-royal/Assignment2/assets/77642195/62fea5a3-6358-41af-945f-30fc02fa404d)
