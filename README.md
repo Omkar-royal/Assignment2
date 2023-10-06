@@ -6,18 +6,19 @@ The extensive assignment in this repository was created to evaluate my proficien
 
 # JAVA
 
-![Screenshot (364)](https://github.com/Omkar-royal/Assignment2/assets/77642195/61d3ec62-ffa7-49d5-b588-c3d8b8247058)
+![Screenshot (364)](https://github.com/Omkar-royal/Assignment2/assets/77642195/6e885085-b46a-4571-bd3c-d6f7368748ff)
+
 
 
 # JavaScript
-![Screenshot (368)](https://github.com/Omkar-royal/Assignment2/assets/77642195/42baf669-7bcb-4cf9-8a90-93b9e5e9b77c)
 
-![Screenshot (367)](https://github.com/Omkar-royal/Assignment2/assets/77642195/77d6e7fc-b4da-4fd3-9dd9-4292318d9d4e)
-
+![Screenshot (367)](https://github.com/Omkar-royal/Assignment2/assets/77642195/293b3239-f88e-4f24-825b-b2a1b55021e9)
+![Screenshot (368)](https://github.com/Omkar-royal/Assignment2/assets/77642195/a66f68f2-3cbe-4918-b1dc-531f0aa25216)
 
 
 # HTML
-![Screenshot (370)](https://github.com/Omkar-royal/Assignment2/assets/77642195/7ba6cf43-f239-4384-8fac-b6f02adc70eb)
-![Screenshot (371)](https://github.com/Omkar-royal/Assignment2/assets/77642195/930fabf3-3fc9-48eb-a2d9-f090f8834294)
-![Screenshot (372)](https://github.com/Omkar-royal/Assignment2/assets/77642195/f590b6d5-06ab-4525-8118-9131808de912)
+
+![Screenshot (370)](https://github.com/Omkar-royal/Assignment2/assets/77642195/c3218108-f031-4bf2-9a26-b89e8e72db80)
+![Screenshot (371)](https://github.com/Omkar-royal/Assignment2/assets/77642195/32cf6b16-5f26-489e-bd5d-6f410bb2460b)
+
 
